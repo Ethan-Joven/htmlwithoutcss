@@ -5,6 +5,9 @@ var atut = document.querySelector("#atut")
 var buttontut = document.querySelector("#buttontut")
 var btn = document.querySelector("#btn")
 var titletut = document.querySelector("#titletut")
+var color = document.querySelector("#color")
+var nocolor = document.querySelector("#nocolor")
+document.getElementById("window")
 
 p.innerHTML = "Using paragraph tags"
 
@@ -23,3 +26,15 @@ function helloworld() {
 }
 
 btn.addEventListener("click", helloworld)
+
+function gotocolor() {
+    window.open("color.html")
+}
+
+color.addEventListener("click", gotocolor)
+
+function gotonocss() {
+    window.open("index.html")
+}
+
+nocolor.addEventListener("click", gotonocss)

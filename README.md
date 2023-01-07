@@ -1,13 +1,11 @@
-# HTML without CSS
+# HTML guide
 
-A Basic HTML guide made by me without CSS. Don't ask why no CSS
+A Basic HTML guide made by me with CSS or no CSS
 
 ### Includes
 
-1. Giving your website a name
+1. Adding text
 
-2. Adding text
+2. Adding links
 
-3. Adding links
-
-4. Adding buttons
+3. Adding buttons
