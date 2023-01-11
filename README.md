@@ -1,6 +1,6 @@
 # HTML guide
 
-A Basic HTML guide made by me with CSS or no CSS
+A Basic HTML guide made by me with no CSS
 
 ### Includes
 
